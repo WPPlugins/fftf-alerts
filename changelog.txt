@@ -1,0 +1,19 @@
+== Changelog ==
+
+= 1.1.1 =
+* July 2017
+* I hate PHP comparison operators...
+
+= 1.1.0 =
+* July 2017
+* Add feature to ensure we don't run the code (and slow sites down) forever.
+* Add upgrade routine
+* Add Cat Signal
+
+= 1.0.1 =
+* June 30, 2017
+* Hopefully temporary patch for [#19 Mixed content error](https://github.com/fightforthefuture/battleforthenet-widget/issues/19)
+
+= 1.0.0 =
+* June 30, 2017
+* Initial Release
